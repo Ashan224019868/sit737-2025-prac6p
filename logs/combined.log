@@ -1,0 +1,24 @@
+info: Microservice running at http://localhost:3000
+info: Addition: 10 + 5 = 15
+info: Subtraction: 20 - 5 = 15
+info: Subtraction: 20 - 5 = 15
+info: Multiplication: 4 * 5 = 20
+info: Division: 20 / 4 = 5
+{"level":"info","message":"Microservice running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 5 + 2","service":"calculator-microservice"}
+{"level":"info","message":"New subtraction operation requested: 10 - 4","service":"calculator-microservice"}
+{"level":"info","message":"New multiplication operation requested: 3 * 6","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested: 20 / 5","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 5 + 2","service":"calculator-microservice"}
+{"level":"info","message":"Microservice running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 5 + 2= 7","service":"calculator-microservice"}
+{"level":"info","message":"Microservice running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 5 + 2 = 7","service":"calculator-microservice"}
+{"level":"info","message":"New subtraction operation requested: 10 - 4 = 6","service":"calculator-microservice"}
+{"level":"info","message":"New multiplication operation requested: 3 * 6 = 18","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested: 20 / 5 = 4","service":"calculator-microservice"}
+{"level":"info","message":"Microservice running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 5 + 2 = 7","service":"calculator-microservice"}
+{"level":"info","message":"New subtraction operation requested: 10 - 4 = 6","service":"calculator-microservice"}
+{"level":"info","message":"New multiplication operation requested: 3 * 6 = 18","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested: 20 / 5 = 4","service":"calculator-microservice"}
