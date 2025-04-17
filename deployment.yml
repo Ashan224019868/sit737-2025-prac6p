@@ -14,6 +14,7 @@ spec:
     spec:
       containers:
       - name: calculator
-        image: calculator-microservice
+        image: calculator
+        imagePullPolicy: Never
         ports:
         - containerPort: 3000
